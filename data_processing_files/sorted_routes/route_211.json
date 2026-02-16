@@ -1,0 +1,122 @@
+{
+    "route_id": 211,
+    "route_name": "40",
+    "bus_data": [
+        {
+            "id": "863051063140841",
+            "lon": 153000008.5,
+            "lat": 82172270,
+            "dir": 52,
+            "speed": 10,
+            "lasttime": "12.12.2025 03:19:43",
+            "gos_num": "",
+            "rid": 211,
+            "rnum": "40",
+            "rtype": "А",
+            "low_floor": "1",
+            "wifi": "0",
+            "anim_key": 336053,
+            "big_jump": "0",
+            "anim_points": [
+                {
+                    "percent": "100",
+                    "dir": "-38",
+                    "lat": 82172270,
+                    "lon": 153000004
+                }
+            ]
+        },
+        {
+            "id": "863051063140841",
+            "lon": 153000005.5,
+            "lat": 82172268.4,
+            "dir": 52,
+            "speed": 11,
+            "lasttime": "12.12.2025 03:19:43",
+            "gos_num": "",
+            "rid": 211,
+            "rnum": "40",
+            "rtype": "А",
+            "low_floor": "1",
+            "wifi": "0",
+            "anim_key": 336201,
+            "big_jump": "0",
+            "anim_points": []
+        },
+        {
+            "id": "863051063140841",
+            "lon": 153000128.5,
+            "lat": 82172351.6,
+            "dir": 39,
+            "speed": 0,
+            "lasttime": "12.12.2025 03:20:18",
+            "gos_num": "",
+            "rid": 211,
+            "rnum": "40",
+            "rtype": "А",
+            "low_floor": "1",
+            "wifi": "0",
+            "anim_key": 336500,
+            "big_jump": "0",
+            "anim_points": [
+                {
+                    "percent": "100",
+                    "dir": "-51",
+                    "lat": 82172353.2,
+                    "lon": 153000124
+                }
+            ]
+        },
+        {
+            "id": "863051063140841",
+            "lon": 153000131.5,
+            "lat": 82172353.2,
+            "dir": 39,
+            "speed": 0,
+            "lasttime": "12.12.2025 03:20:18",
+            "gos_num": "",
+            "rid": 211,
+            "rnum": "40",
+            "rtype": "А",
+            "low_floor": "1",
+            "wifi": "0",
+            "anim_key": 336649,
+            "big_jump": "0",
+            "anim_points": []
+        },
+        {
+            "id": "863051063140841",
+            "lon": 153000131.5,
+            "lat": 82172353.2,
+            "dir": 39,
+            "speed": 0,
+            "lasttime": "12.12.2025 03:20:18",
+            "gos_num": "",
+            "rid": 211,
+            "rnum": "40",
+            "rtype": "А",
+            "low_floor": "1",
+            "wifi": "0",
+            "anim_key": 336798,
+            "big_jump": "0",
+            "anim_points": []
+        },
+        {
+            "id": "863051063140841",
+            "lon": 153000119.5,
+            "lat": 82172359.6,
+            "dir": 39,
+            "speed": 4,
+            "lasttime": "12.12.2025 03:20:48",
+            "gos_num": "",
+            "rid": 211,
+            "rnum": "40",
+            "rtype": "А",
+            "low_floor": "1",
+            "wifi": "0",
+            "anim_key": 337088,
+            "big_jump": "0",
+            "anim_points": []
+        }
+    ]
+}
