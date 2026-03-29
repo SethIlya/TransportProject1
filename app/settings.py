@@ -92,6 +92,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # CORS settings
 CORS_ALLOW_ALL_ORIGINS = True
 CORS_ALLOW_CREDENTIALS = True
+SECURE_REFERRER_POLICY = 'strict-origin-when-cross-origin'
 
 # GeoDjango settings for Windows
 if platform.system() == 'Windows':
